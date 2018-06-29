@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/guojing/Documents/Android/term3/code/9/Dribbbo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/guojing/Documents/Android/term3/code/9/Dribbbo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7d9c04b6d4bab93981284fe4bfc75de12e19f7ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/guojing/Documents/Android/term3/code/9/Dribbbo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbdcaf1f14a1a9633112a66af2e0913a984d509">
+        <dex dex="/Users/guojing/Documents/Android/term3/code/9/Dribbbo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0ef75ead82d14af1c9dfaa29eea00bf15b9668e9/classes.dex" />
+    </item>
+
+</items>
