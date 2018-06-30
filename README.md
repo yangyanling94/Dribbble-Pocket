@@ -21,8 +21,8 @@ An android app to help designers share their products and learn from each other 
 Users can user their username and password to get into their accounts.</br>
 Used OkHttp and WebView to realize OAuth login, through which users can login with their Dribbble accounts.</br>
 
-![](readmeDemo/pic/login.jpg)
-![](readmeDemo/pic/account.jpg)
+![](readmeDemo/pic/login.jpg)</br>
+![](readmeDemo/pic/accout.jpg)
 
 ### User Shots Display
 -----------
