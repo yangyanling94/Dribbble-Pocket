@@ -33,7 +33,7 @@ Display a list of all the users, from which you can get to see other user's shar
 ### Like and Bucket
 -----------
 Combined Activity, Fragment, Dialog,  AsyncTask with Dribbble API to achieve ‘like’ and ‘bucket’ functions.</br>
-![](readmeDemo/pic/like-bucket1.jpg)
+![](readmeDemo/pic/like-bucket1.jpg)</br>
 ![](readmeDemo/pic/like-bucket2.jpg)
 
 
