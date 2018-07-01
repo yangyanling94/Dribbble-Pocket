@@ -1,4 +1,4 @@
-# Dribbble-Pocket
+# Dribbbo Pocket
 
 An android app to help designers share their products and learn from each other worldwide.
 
